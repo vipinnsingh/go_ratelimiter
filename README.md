@@ -1,1 +1,1 @@
-This repo defined the three method for implementing the rate limiting on a server.
+This repo defines three methoda for implementing rate limiting on a server.
